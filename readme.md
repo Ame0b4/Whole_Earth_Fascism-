@@ -1,4 +1,4 @@
-# Half-Earth Socialism
+# WHOLE EARTH FASCISM
 
 The project consists of two artifacts:
 
