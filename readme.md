@@ -9,12 +9,7 @@ The project consists of two artifacts:
 
 ## Overview
 
-- `hes-engine` defines the model that drives the game.
-- `hes-game` is the game itself, which is mostly a visual layer over the engine.
-- `hes-editor` is an editor to change parts of the game/engine, e.g. what projects are available, their parameters, etc, and is used to build custom `.world` files that can be loaded into new games.
-
-We also include [a version](https://github.com/frnsys/hector-wasm) of the [Hector simple climate model](https://jgcri.github.io/hector/) that we've adapted to run in the browser. The process of building Hector for WASM is complicated so pre-compiled versions are included here.
-
+Stuff here
 
 ## Setup
 
@@ -83,12 +78,8 @@ Available recipes:
 
 # Releases
 
-You can play it at:
-* [half.earth](https://play.half.earth/) (web; and [the editor](https://editor.half.earth/))
-* [Steam](https://store.steampowered.com/app/2071530/HalfEarth_Socialism/) (Windows/macOS/Linux) (Account needed)
-  - _Note_: The build process for the Steam version is more complicated so it's less likely to be up-to-date.
-* [Itch.io](https://frnsys.itch.io/half-earth-socialism) (Windows/macOS/Linux)
+Currently in development.
 
 # Community
 
-We have [a Discord for the game and book here](https://discord.gg/cUBtbDfzn5).
+We dont have one.
